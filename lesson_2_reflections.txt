@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	To create a gidden .gif folder that will manage all the version-control stuff.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Its an intermediate that lets you customize which files should be included before the commit is made
+	instead of just commiting the entire repository.
